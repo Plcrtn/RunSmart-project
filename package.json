@@ -2,7 +2,7 @@
   "name": "uber",
   "version": "1.0.0",
   "description": "подключаю галп",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,7 +27,7 @@
     "sass": "^1.55.0"
   },
   "browserslist": [
-    "last 2 versions",
+    "last 1 version",
     "> 1%",
     "maintained node versions",
     "not dead"
